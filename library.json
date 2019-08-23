@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-16-channel-analog-digital-mux-breakout---cd74hc4067-analog-digital-16-channel",
+  "title": "16-channel-analog-digital-mux-breakout---cd74hc4067-analog-digital-16-channel",
+  "keywords": "16-channel-analog-digital-mux-breakout---cd74hc4067-analog-digital-16-channel, esp32, esp8266, arduino",
+  "description": "16-channel-analog-digital-mux-breakout---cd74hc4067-analog-digital-16-channel plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-16-channel-analog-digital-mux-breakout---cd74hc4067-analog-digital-16-channel/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-16-channel-analog-digital-mux-breakout---cd74hc4067-analog-digital-16-channel/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
